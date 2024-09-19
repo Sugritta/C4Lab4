@@ -1,0 +1,4 @@
+repository "C3Lab1@sugritta405@cloud"
+  path "/"
+    br "/main"
+    co "/main"
